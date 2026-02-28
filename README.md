@@ -28,8 +28,6 @@ My goal is not just to make software work — but to make complexity manageable 
 - Thoughtful application of design patterns
 - Infrastructure isolation from core business logic
 
----
-
 <h2 align="center">🛠 Technologies & Skils</h2>
 
 <p align="center">
