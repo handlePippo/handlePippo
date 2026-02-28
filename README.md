@@ -1,5 +1,9 @@
 <h1 align="center">Hi there, I'm Filippo Palliani 👋</h1>
 
+---
+
+I am a Backend Developer with 4 years of experience in software development, including 2 years focused on the .NET ecosystem. I specialize in designing and implementing maintainable backend systems, with a strong emphasis on Domain-Driven Design, Clean Architecture, and scalable distributed solutions. I am deeply interested in system design, domain modeling, and building software that balances business clarity with technical excellence. I continuously refine my architectural thinking through hands-on projects, experimentation, and ongoing learning.
+
 <p align="center"> 
  <a href="https://google.com" alt="filippo palliani's blog">
    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Blog&color=%23F58025&logo=rss&logoColor=FFFFFF&label=" />
@@ -18,9 +22,7 @@
  </a>
 </p>
 
-### .NET Backend Developer | Domain-Driven Design & Clean Architecture Enthusiast
-
-I design backend systems with a strong focus on **Domain-Driven Design**, **Clean Architecture**, and long-term maintainability.
+I design backend systems with a strong focus on **.NET**, **Domain-Driven Design**, **Clean Architecture**, and long-term maintainability.
 
 My goal is not just to make software work — but to make complexity manageable through:
 - Explicit domain modeling
