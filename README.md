@@ -30,35 +30,6 @@ My goal is not just to make software work — but to make complexity manageable 
 
 ---
 
-## 🧠 Architectural Focus
-
-- Domain Modeling & Aggregates
-- Onion / Clean Architecture
-- Strategic DDD & Bounded Contexts
-- Scalable and Distributed Systems Design
-
----
-
-## 🛠 Tech Stack
-
-**Backend:**  
-.NET (Core 6/8), ASP.NET Core, Entity Framework Core  
-
-**Databases:**  
-MongoDB, MySQL  
-
-**Infrastructure & DevOps:**  
-Docker, Kubernetes, Redis, Kafka  
-
----
-
-## 🎯 Philosophy
-
-Technology evolves.  
-Architectural discipline endures.
-
-I’m continuously refining my approach to system design, aiming to grow from backend developer to full-stack engineer with strong architectural expertise.
-
 <h2 align="center">🛠 Technologies & Skils</h2>
 
 <p align="center">
