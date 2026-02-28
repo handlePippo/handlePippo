@@ -3,17 +3,14 @@
 I am a Backend Developer with 4 years of experience in software development, including 2 years focused on the .NET ecosystem. I specialize in designing and implementing maintainable backend systems, with a strong emphasis on Domain-Driven Design, Clean Architecture, and scalable distributed solutions. I am deeply interested in system design, domain modeling, and building software that balances business clarity with technical excellence. I continuously refine my architectural thinking through hands-on projects, experimentation, and ongoing learning.
 
 <p align="center"> 
- <a href="https://google.com" alt="filippo palliani's blog">
-   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Blog&color=%23F58025&logo=rss&logoColor=FFFFFF&label=" />
+ <a href="https://filippopalliani.netlify.app" alt="filippo palliani's portfolio">
+   <img src="https://img.shields.io/badge/%20-Blog-%23FF5722?logo=blogger&logoColor=white&style=for-the-badge" />
  </a>
  <a href="https://github.com/handlePippo" alt="filippo palliani's github">
    <img src="https://img.shields.io/badge/%20-GitHub-black?logo=GitHub&logoColor=white&style=for-the-badge" />
  </a>
  <a href="https://www.linkedin.com/in/filippopalliani" alt="filippo palliani's linkedin">
    <img src="https://img.shields.io/badge/%20-LinkedIn-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/filippopalliani" />
- </a>
- <a href="https://filippopalliani.netlify.app" alt="filippo palliani's portfolio">
-   <img src="https://img.shields.io/badge/%20-Blog-%23FF5722?logo=blogger&logoColor=white&style=for-the-badge" />
  </a>
  <a>
    <img src="https://komarev.com/ghpvc/?username=handlePippo&color=ff69b4&style=for-the-badge" />
