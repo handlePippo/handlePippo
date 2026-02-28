@@ -39,24 +39,14 @@ My goal is not just to make software work — but to make complexity manageable 
   </a>
 
   <!-- Frontend -->
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-      width="54" height="54" alt="TypeScript" style="vertical-align:top; margin:4px;">
-  </a>
-
   <a href="https://react.dev/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
       width="54" height="54" alt="React" style="vertical-align:top; margin:4px;">
   </a>
 
-  <!-- Messaging -->
-  <a href="https://kafka.apache.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg"
-      width="54" height="54" alt="Apache Kafka" style="vertical-align:top; margin:4px;">
-  </a>
-  <a href="https://www.rabbitmq.com/">
-    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg"
-      width="54" height="54" alt="RabbitMQ" style="vertical-align:top; margin:4px;">
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+      width="54" height="54" alt="TypeScript" style="vertical-align:top; margin:4px;">
   </a>
 
   <!-- Databases -->
@@ -68,6 +58,16 @@ My goal is not just to make software work — but to make complexity manageable 
   <a href="https://www.mongodb.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"
       width="54" height="54" alt="MongoDB" style="vertical-align:top; margin:4px;">
+  </a>
+
+  <!-- Messaging -->
+  <a href="https://kafka.apache.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg"
+      width="54" height="54" alt="Apache Kafka" style="vertical-align:top; margin:4px;">
+  </a>
+  <a href="https://www.rabbitmq.com/">
+    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg"
+      width="54" height="54" alt="RabbitMQ" style="vertical-align:top; margin:4px;">
   </a>
 
   <!-- Cloud & DevOps -->
