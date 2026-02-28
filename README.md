@@ -1,7 +1,5 @@
 <h1 align="center">Hi there, I'm Filippo Palliani 👋</h1>
 
----
-
 I am a Backend Developer with 4 years of experience in software development, including 2 years focused on the .NET ecosystem. I specialize in designing and implementing maintainable backend systems, with a strong emphasis on Domain-Driven Design, Clean Architecture, and scalable distributed solutions. I am deeply interested in system design, domain modeling, and building software that balances business clarity with technical excellence. I continuously refine my architectural thinking through hands-on projects, experimentation, and ongoing learning.
 
 <p align="center"> 
