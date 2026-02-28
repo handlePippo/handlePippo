@@ -38,7 +38,7 @@ My goal is not just to make software work — but to make complexity manageable 
       width="54" height="54" alt=".NET" style="vertical-align:top; margin:4px;">
   </a>
 
-    <!-- Frontend -->
+  <!-- Frontend -->
   <a href="https://www.typescriptlang.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
       width="54" height="54" alt="TypeScript" style="vertical-align:top; margin:4px;">
